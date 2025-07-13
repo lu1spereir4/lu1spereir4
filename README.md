@@ -68,11 +68,6 @@ Me encanta enfrentar desafíos complejos y convertir ideas en soluciones tecnol�
 - **Agente de entrenamiento con IA**  
   Proyecto en desarrollo que combina deporte y tecnología, usando IA para personalizar entrenamientos y motivar a usuarios.
 
----
-
-## 📊 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=lu1spereir4&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=lu1spereir4&layout=compact&theme=radical)
 
 ---
 
