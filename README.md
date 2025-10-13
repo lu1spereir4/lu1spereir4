@@ -18,7 +18,7 @@ Me encanta enfrentar desafíos complejos y convertir ideas en soluciones tecnol�
   - **Agente de entrenamiento con IA:** Proyecto en desarrollo, combinando deporte y tecnología.
 - 🏃 **Hobbies**: Gimnasio, trotar, tenis, trekking y viajar por el mundo para explorar nuevas culturas y paisajes.
 - 🌱 **Actualmente aprendiendo**: Algoritmos avanzados de IA y técnicas de ciberseguridad.
-- 📫 **Contacto**: [luis.pereira@ejemplo.com](mailto:luis.pereira@ejemplo.com) | [LinkedIn](https://www.linkedin.com/in/luis-pereira-24216124b/) | [Portafolio](#)
+- 📫 **Contacto**: [luispereira502@gmail.com](mailto:luispereira502@gmail.com) | [LinkedIn](https://www.linkedin.com/in/luis-pereira-24216124b/) | [Portafolio](#)
 
 ---
 
