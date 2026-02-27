@@ -50,7 +50,7 @@ Aquí tienes los repositorios que deberías "Pinnear" (fijar) en la parte superi
 ### ⚙️ 2. Automatización y POS IoT (The Wessex School)
 *El proyecto que demuestra que eres un Ingeniero Full-Stack/IoT.*
 - **Descripción:** Plataforma financiera centralizada que reemplazó procesos manuales en Excel.
-- **Logros:** Diseño de un Punto de Venta (POS) con **Raspberry Pi** bajo arquitectura *Offline-First*, con sincronización asíncrona hacia una base de datos en AWS (\`www.wesrugby.site\`).
+- **Logros:** Diseño de un Punto de Venta (POS) con **Raspberry Pi** bajo arquitectura *Offline-First*, con sincronización asíncrona hacia una base de datos en AWS (\`www.wesrugby.site\).
 
 ### 🚗 3. BioRuta (App de Carpooling)
 *El proyecto que demuestra tu capacidad de trabajo en equipo y bases híbridas.*
