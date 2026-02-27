@@ -1,84 +1,74 @@
-# ¡Hola! Soy Luis Pereira Toledo 👨‍💻
+# ¡Hola! Soy Luis Pereira 👨‍💻
+### Ingeniero Civil Informático | Data Engineer & Process Automation ⚙️
 
-¡Bienvenido/a! Soy estudiante de **último semestre de Ingeniería Civil en Informática** en la **Universidad del Bío-Bío**. Me apasiona la **Inteligencia Artificial**, el **desarrollo de aplicaciones móviles** y estoy siempre buscando aprender más sobre **Ciberseguridad**. 
+¡Bienvenido/a a mi perfil! Soy Ingeniero Civil Informático (Universidad del Bío-Bío / UPV España) con un enfoque obsesivo en la **eficiencia, la automatización y la arquitectura de datos**. 
 
-Me encanta enfrentar desafíos complejos y convertir ideas en soluciones tecnológicas que realmente marcan la diferencia.
+Me especializo en transformar problemas de negocio complejos en soluciones tecnológicas escalables, ya sea procesando +50 millones de registros, diseñando arquitecturas *Offline-First* con IoT, o aplicando IA para optimizar procesos. Además, fui **Campeón Nacional de Robótica (BRC 2025)** 🤖, lo que forjó mi disciplina para optimizar algoritmos y hardware al milímetro.
 
 ---
 
 ## 🚀 Sobre mí
 
-- 🎓 **Formación**: Último semestre de Ingeniería Civil en Informática en la Universidad del Bío-Bío, Chile.
-- 💡 **Top Skills**:  
-  - Inteligencia Artificial (Visión por Computadora, Aprendizaje por Refuerzo, ML)
-  - Desarrollo de Apps Móviles (Flutter, React Native)
-- 🛡️ **¿Qué quiero mejorar?**: Mi conocimiento en Ciberseguridad y nuevas tecnologías emergentes.
-- 🤖 **Proyectos favoritos**:  
-  - **App de rutas colaborativas:** Ayuda a compartir viajes y ahorrar, creada en equipo.  
-  - **Agente de entrenamiento con IA:** Proyecto en desarrollo, combinando deporte y tecnología.
-- 🏃 **Hobbies**: Gimnasio, trotar, tenis, trekking y viajar por el mundo para explorar nuevas culturas y paisajes.
-- 🌱 **Actualmente aprendiendo**: Algoritmos avanzados de IA y técnicas de ciberseguridad.
-- 📫 **Contacto**: [luispereira502@gmail.com](mailto:luispereira502@gmail.com) | [LinkedIn](https://www.linkedin.com/in/luis-pereira-24216124b/) | [Portafolio](#)
+- 🏗️ **Lo que hago:** Diseño Data Lakehouses, pipelines ETL/ELT eficientes y sistemas automatizados (Backend/IoT).
+- 💡 **Stack Principal:** Python (Pandas, DuckDB), SQL Avanzado, Arquitecturas en AWS, Docker.
+- 🌱 **Mentalidad:** Disciplinado, orientado a la reducción de I/O y enfocado en entregar valor de negocio rápido usando IA como copiloto.
+- 🏃 **Fuera del código:** Me apasiona el gimnasio, el tenis, el trekking y viajar para explorar nuevas culturas.
+- 📫 **Contáctame:** [luispereira502@gmail.com](mailto:luispereira502@gmail.com) | [LinkedIn](https://www.linkedin.com/in/luis-pereira-24216124b/)
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## 🛠️ Stack Tecnológico
 
-**Lenguajes**:  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black) 
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) 
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-
-**Frameworks y Herramientas**:  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) 
-![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white) 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) 
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
-
-**Bases de Datos y Cloud**:  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) 
+**Data Engineering & Analytics** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
+![SQL](https://img.shields.io/badge/-SQL_Avanzado-4479A1?logo=postgresql&logoColor=white)
+![DuckDB](https://img.shields.io/badge/-DuckDB-FFF000?logo=duckdb&logoColor=black)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)
 
-**Inteligencia Artificial y Machine Learning**:  
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) 
-![KMeans++](https://img.shields.io/badge/-KMeans++-FF9900?logo=machine-learning) 
-![Random Forest](https://img.shields.io/badge/-Random%20Forest-228B22?logo=machine-learning) 
-![Q-Learning](https://img.shields.io/badge/-Q--Learning-000080?logo=machine-learning) 
-![DreamerV3](https://img.shields.io/badge/-DreamerV3-800080?logo=machine-learning)
+**Cloud & DevOps** ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) 
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) 
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 
-**Otros**:  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) 
-![NPM](https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white) 
-![JWT](https://img.shields.io/badge/-JWT-000000?logo=json-web-tokens&logoColor=white) 
-![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white) 
-![Metodologías Ágiles](https://img.shields.io/badge/-Agile-FFD700?logo=scrum)
+**Software Development & IoT** ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) 
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) 
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?logo=raspberry-pi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
 ---
 
-## ⭐ Proyectos Destacados
+## ⭐ Proyectos Destacados (Pinned)
 
-- **App de rutas colaborativas**  
-  Plataforma para compartir viajes y rutas, pensada para ahorrar y conectar personas. Desarrollada de forma colaborativa.
+Aquí tienes los repositorios que deberías "Pinnear" (fijar) en la parte superior de tu perfil de GitHub:
 
-- **Agente de entrenamiento con IA**  
-  Proyecto en desarrollo que combina deporte y tecnología, usando IA para personalizar entrenamientos y motivar a usuarios.
+### 📊 1. Data Lakehouse: Movilidad Pública Santiago (DTPM)
+*El proyecto que demuestra que manejas Big Data real.*
+- **Descripción:** Arquitectura *Medallion* para procesar **50.5 millones de registros** históricos de transporte.
+- **Logros:** Implementación de Modelo Estrella en SQL Server con *partitioning* e índices. Automatización de ingesta con **DuckDB** y Parquet, reduciendo el I/O de disco en un 60%.
 
+### ⚙️ 2. Automatización y POS IoT (The Wessex School)
+*El proyecto que demuestra que eres un Ingeniero Full-Stack/IoT.*
+- **Descripción:** Plataforma financiera centralizada que reemplazó procesos manuales en Excel.
+- **Logros:** Diseño de un Punto de Venta (POS) con **Raspberry Pi** bajo arquitectura *Offline-First*, con sincronización asíncrona hacia una base de datos en AWS (\`www.wesrugby.site\`).
+
+### 🚗 3. BioRuta (App de Carpooling)
+*El proyecto que demuestra tu capacidad de trabajo en equipo y bases híbridas.*
+- **Descripción:** Aplicación colaborativa para compartir rutas, optimizando el transporte urbano.
+- **Logros:** Arquitectura de base de datos híbrida (**PostgreSQL + MongoDB**), backend en Node.js y app móvil en Flutter. Trabajo coordinado en un equipo de 5 desarrolladores.
+
+### 📈 4. Data Warehouse Pagila: OLTP a OLAP
+*El proyecto que demuestra tu dominio analítico.*
+- **Descripción:** Migración de una base de datos transaccional a un modelo dimensional (Star Schema).
+- **Logros:** Uso intensivo de *Window Functions* y CTEs para generar consultas analíticas complejas y KPIs de negocio.
 
 ---
 
-## 🤝 ¡Conéctate conmigo!
-- 📧 Email: [luispereira502@gmail.com](mailto:luispereira502@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/luis-pereira-24216124b/)
+## 🤝 ¡Conectemos!
 
+Busco oportunidades como **Data Engineer, Ingeniero de Procesos o Backend Developer** donde pueda aportar eficiencia a nivel de arquitectura y código. Si tu equipo maneja grandes volúmenes de datos o busca modernizar su infraestructura, ¡hablemos!
 
-Abierto a ofertas en las siguientes áreas: **IA**, **Desarrollo móvil** o **Ciberseguridad**.  
-Si te interesa mi perfil o quieres colaborar en algún proyecto innovador, ¡no dudes en contactarme!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-pereira-24216124b/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luispereira502@gmail.com)
 
----
-
-> _Entre algoritmos y aventuras, busco dejar huella en la tecnología y el mundo. ¡Hablemos!_
+> *"Los datos sin un buen diseño de arquitectura son solo ruido. Construyamos sistemas que escalen."*
