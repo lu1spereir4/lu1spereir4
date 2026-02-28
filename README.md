@@ -10,12 +10,12 @@ He trabajado con volúmenes grandes (ej. **50M+ filas**) y con sistemas **offlin
 ---
 
 ## 🎯 Rol que busco
-**Data Engineer / Analytics Engineer** (también considero Automation / Backend si es data-driven).  
+**Data Engineer / Analytics Engineer**. 
 Me interesa: **ELT/ETL**, **SQL avanzado**, **modelado dimensional**, **calidad de datos**, **performance**, **Docker/CI**, y cloud (AWS).
 
 ---
 
-## ✅ Proof of Work (lo importante en 30 segundos)
+## ✅ Proof of Work
 - **Lakehouse Medallion** (Raw → Silver → Gold) con **50.5M** registros (Parquet/DuckDB) + modelo estrella para analítica.
 - **Data Warehouse** (OLTP → OLAP) con **Star Schema** + queries de negocio (CTEs, window functions, KPIs).
 - **Offline-first POS (IoT)** con sincronización asíncrona cuando vuelve la conectividad.
@@ -70,15 +70,15 @@ Me interesa: **ELT/ETL**, **SQL avanzado**, **modelado dimensional**, **calidad 
 
 ---
 
-## 🧰 Tech Stack (core para DE)
+## 🧰 Tech Stack
 **Data:** Python, SQL, DuckDB, Pandas, PostgreSQL, SQL Server  
 **Infra/DevOps:** Docker, Git, Linux, AWS  
 **Apps/IoT:** Node.js, Flutter, Raspberry Pi, MongoDB
 
 ---
 
-## 🏅 Extra (opcional, si suma a tu narrativa)
-- 🏆 Campeón Nacional de Robótica (BRC 2025) — disciplina + optimización HW/SW.
+## 🏅 Extra 
+- 🏆 Campeón Nacional de Robótica (BRC 2025) — optimización HW/SW.
 
 ---
 
