@@ -1,74 +1,95 @@
 # ¡Hola! Soy Luis Pereira 👨‍💻
-### Ingeniero Civil Informático | Data Engineer & Process Automation ⚙️
+### Data Engineer | ELT/ETL • Lakehouse • Dimensional Modeling • Automation
 
-¡Bienvenido/a a mi perfil! Soy Ingeniero Civil Informático (Universidad del Bío-Bío / UPV España) con un enfoque obsesivo en la **eficiencia, la automatización y la arquitectura de datos**. 
+Ingeniero Civil Informático (Universidad del Bío-Bío / UPV España). Me enfoco en construir **pipelines reproducibles**, **modelos analíticos (Star Schema)** y **arquitecturas de datos eficientes**.  
+He trabajado con volúmenes grandes (ej. **50M+ filas**) y con sistemas **offline-first** (IoT) donde la confiabilidad y sincronización importan.
 
-Me especializo en transformar problemas de negocio complejos en soluciones tecnológicas escalables, ya sea procesando +50 millones de registros, diseñando arquitecturas *Offline-First* con IoT, o aplicando IA para optimizar procesos. Además, fui **Campeón Nacional de Robótica (BRC 2025)** 🤖, lo que forjó mi disciplina para optimizar algoritmos y hardware al milímetro.
-
----
-
-## 🚀 Sobre mí
-
-- 🏗️ **Lo que hago:** Diseño Data Lakehouses, pipelines ETL/ELT eficientes y sistemas automatizados (Backend/IoT).
-- 💡 **Stack Principal:** Python (Pandas, DuckDB), SQL Avanzado, Arquitecturas en AWS, Docker.
-- 🌱 **Mentalidad:** Disciplinado, orientado a la reducción de I/O y enfocado en entregar valor de negocio rápido usando IA como copiloto.
-- 🏃 **Fuera del código:** Me apasiona el gimnasio, el tenis, el trekking y viajar para explorar nuevas culturas.
-- 📫 **Contáctame:** [luispereira502@gmail.com](mailto:luispereira502@gmail.com) | [LinkedIn](https://www.linkedin.com/in/luis-pereira-24216124b/)
+📍 Concepción, Chile · 🌎 Abierto a remoto 
+📫 [luispereira502@gmail.com](mailto:luispereira502@gmail.com) · [LinkedIn](https://www.linkedin.com/in/luis-pereira-24216124b/)
 
 ---
 
-## 🛠️ Stack Tecnológico
-
-**Data Engineering & Analytics** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
-![SQL](https://img.shields.io/badge/-SQL_Avanzado-4479A1?logo=postgresql&logoColor=white)
-![DuckDB](https://img.shields.io/badge/-DuckDB-FFF000?logo=duckdb&logoColor=black)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) 
-![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)
-
-**Cloud & DevOps** ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) 
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-
-**Software Development & IoT** ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) 
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) 
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?logo=raspberry-pi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+## 🎯 Rol que busco
+**Data Engineer / Analytics Engineer** (también considero Automation / Backend si es data-driven).  
+Me interesa: **ELT/ETL**, **SQL avanzado**, **modelado dimensional**, **calidad de datos**, **performance**, **Docker/CI**, y cloud (AWS).
 
 ---
 
-## ⭐ Proyectos Destacados (Pinned)
-
-Aquí tienes los repositorios que deberías "Pinnear" (fijar) en la parte superior de tu perfil de GitHub:
-
-### 📊 1. Data Lakehouse: Movilidad Pública Santiago (DTPM)
-*El proyecto que demuestra que manejas Big Data real.*
-- **Descripción:** Arquitectura *Medallion* para procesar **50.5 millones de registros** históricos de transporte.
-- **Logros:** Implementación de Modelo Estrella en SQL Server con *partitioning* e índices. Automatización de ingesta con **DuckDB** y Parquet, reduciendo el I/O de disco en un 60%.
-
-### ⚙️ 2. Automatización y POS IoT (The Wessex School)
-*El proyecto que demuestra que eres un Ingeniero Full-Stack/IoT.*
-- **Descripción:** Plataforma financiera centralizada que reemplazó procesos manuales en Excel.
-- **Logros:** Diseño de un Punto de Venta (POS) con **Raspberry Pi** bajo arquitectura *Offline-First*, con sincronización asíncrona hacia una base de datos en AWS (\`www.wesrugby.site\).
-
-### 🚗 3. BioRuta (App de Carpooling)
-*El proyecto que demuestra tu capacidad de trabajo en equipo y bases híbridas.*
-- **Descripción:** Aplicación colaborativa para compartir rutas, optimizando el transporte urbano.
-- **Logros:** Arquitectura de base de datos híbrida (**PostgreSQL + MongoDB**), backend en Node.js y app móvil en Flutter. Trabajo coordinado en un equipo de 5 desarrolladores.
-
-### 📈 4. Data Warehouse Pagila: OLTP a OLAP
-*El proyecto que demuestra tu dominio analítico.*
-- **Descripción:** Migración de una base de datos transaccional a un modelo dimensional (Star Schema).
-- **Logros:** Uso intensivo de *Window Functions* y CTEs para generar consultas analíticas complejas y KPIs de negocio.
+## ✅ Proof of Work (lo importante en 30 segundos)
+- **Lakehouse Medallion** (Raw → Silver → Gold) con **50.5M** registros (Parquet/DuckDB) + modelo estrella para analítica.
+- **Data Warehouse** (OLTP → OLAP) con **Star Schema** + queries de negocio (CTEs, window functions, KPIs).
+- **Offline-first POS (IoT)** con sincronización asíncrona cuando vuelve la conectividad.
+- Práctica de ingeniería: **scripts reproducibles**, estructura clara, documentación y decisiones técnicas.
 
 ---
 
-## 🤝 ¡Conectemos!
+## ⭐ Proyectos Destacados (Pinned) — qué mirar primero
 
-Busco oportunidades como **Data Engineer, Ingeniero de Procesos o Backend Developer** donde pueda aportar eficiencia a nivel de arquitectura y código. Si tu equipo maneja grandes volúmenes de datos o busca modernizar su infraestructura, ¡hablemos!
+### 1) 📊 Data Lakehouse: Movilidad Pública Santiago (DTPM) — **Flagship**
+**Qué demuestra:** Big data real + arquitectura + performance + analítica.  
+- Medallion architecture (Raw/Silver/Gold) + Parquet
+- SQL Server (Star Schema, índices/particiones) para consumo BI
+- Ingesta/transformaciones con DuckDB/Python
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-pereira-24216124b/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luispereira502@gmail.com)
+🔗 Repo: *(https://github.com/lu1spereir4/Data_Lakehouse_Movilidad_Publica_Santiago)*  
+📐 Diagrama: *(link a /docs/architecture.png)*  
+🧪 Bench/Resultados: *(link a /benchmarks o sección de métricas)*
 
-> *"Los datos sin un buen diseño de arquitectura son solo ruido. Construyamos sistemas que escalen."*
+---
+
+### 2) 📈 Data Warehouse Pagila: OLTP → OLAP (Star Schema)
+**Qué demuestra:** criterio de modelado + SQL analítico.  
+- Grano, dims/facts, dim_date, métricas
+- Queries: revenue, cohortes, retención, top customers, tendencias
+
+🔗 Dentro de: **ProyectosDataEngineer** → `./pagila_dw/` *(https://github.com/lu1spereir4/ProyectosDataEngineer/tree/main/pagila_to_starModel)*  
+📐 Modelo: *(https://github.com/lu1spereir4/ProyectosDataEngineer/blob/main/pagila_to_starModel/star_model.png)*  
+🧾 Queries: *(link a analytics.sql / carpeta queries)*
+
+---
+
+### 3) 💳 Fraud / Credit Card Transactions (DW + Analytics)
+**Qué demuestra:** data quality + joins correctos + KPIs.  
+- Dims (customer/merchant/date) + facts
+- Checks de duplicidad/llaves, integridad referencial
+- Métricas y segmentación (fraude por merchant/estado/tiempo)
+
+🔗 Dentro de: **ProyectosDataEngineer** → `./creditcard_fraud_dw/` *(https://github.com/lu1spereir4/ProyectosDataEngineer/tree/main/fintech)*  
+📐 Modelo: *(https://github.com/lu1spereir4/ProyectosDataEngineer/blob/main/fintech/models/star_model_fintech.png)*  
+✅ Quality checks: *(link a quality_checks.sql)*
+
+---
+
+### 4) ⚙️ Offline-first POS IoT (Raspberry Pi + Sync)
+**Qué demuestra:** ingeniería en condiciones reales (sin internet).  
+- Captura local + persistencia + sync asíncrono
+- Arquitectura pensada para fallos y reintentos
+
+🔗 Repo: *(https://github.com/lu1spereir4/GestionInventario)*  
+🌐 Sistema al que se sincroniza: *(www.wesrugby.site)*
+
+---
+
+## 🧰 Tech Stack (core para DE)
+**Data:** Python, SQL, DuckDB, Pandas, PostgreSQL, SQL Server  
+**Infra/DevOps:** Docker, Git, Linux, AWS  
+**Apps/IoT:** Node.js, Flutter, Raspberry Pi, MongoDB
+
+---
+
+## 🏅 Extra (opcional, si suma a tu narrativa)
+- 🏆 Campeón Nacional de Robótica (BRC 2025) — disciplina + optimización HW/SW.
+
+---
+
+## 🤝 Contacto
+Si estás contratando para **Data Engineering** y te interesa alguien que:
+- modele bien (grano, facts/dims),
+- escriba SQL fuerte,
+- piense en performance y calidad,
+- y deje todo reproducible (Docker + docs),
+
+hablemos:  
+📫 [luispereira502@gmail.com](mailto:luispereira502@gmail.com) · [LinkedIn](https://www.linkedin.com/in/luis-pereira-24216124b/)
+
+> “Los datos sin un buen diseño de arquitectura son solo ruido.”
