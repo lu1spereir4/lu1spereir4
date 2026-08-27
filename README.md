@@ -83,7 +83,7 @@ Me interesa: **ELT/ETL**, **SQL avanzado**, **modelado dimensional**, **calidad 
 ---
 
 ## 🤝 Contacto
-Si estás contratando para **Data Engineering** y te interesa alguien que:
+Si estás contratando para **Data Engineering** en modalidad 100% Remoto y te interesa alguien que:
 - modele bien (grano, facts/dims),
 - escriba SQL fuerte,
 - piense en performance y calidad,
